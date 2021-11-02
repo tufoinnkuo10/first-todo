@@ -1,7 +1,17 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Name
+Maths Magician
 
+
+> A single page Todo list app that takes in tasks, edit them and delete them. Built with React
+> ![demo-gif](./todo.gif)
+
+
+Additional description about the project and its features.
+
+- Accepts task, todos can be modified, marked as completed and deleted if need be
+- The app has a nav bar that navigates to the other single pages
 ## Available Scripts
 
 In the project directory, you can run:
